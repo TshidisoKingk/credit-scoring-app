@@ -25,16 +25,16 @@ source .venv/bin/activate
 # Verify Python version (should be 3.8+)
 python --version
 
-2. Install dependencies:
+# Install dependencies:
 BASH:
 pip install -r requirements.txt
 
-RUN BACKEND
+# RUN BACKEND
 BASH:
 source .venv/bin/activate
 python app.py
 
-RUN FRONTEND
+# RUN FRONTEND
 BASH:
 source .venv/bin/activate
 python -m http.server 80
