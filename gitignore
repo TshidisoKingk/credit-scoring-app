@@ -1,0 +1,6 @@
+.venv/
+*.pyc
+__pycache__/
+credit_model.pkl
+scaler.pkl
+credit_data.csv
