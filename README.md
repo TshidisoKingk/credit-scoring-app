@@ -1,4 +1,4 @@
-Smart Credit Scoring Tool for SMEs
+# Smart Credit Scoring Tool for SMEs
 Overview
 This project is a smart credit scoring tool designed to help Small and Medium Enterprises (SMEs) access loans by evaluating their creditworthiness using mobile money history, airtime usage, and transaction records. It uses a Random Forest Classifier trained on synthetic data to predict credit risk (low/high) and loan eligibility. The backend is a Flask API, and the frontend is a simple web interface built with HTML, CSS, and JavaScript. The project leverages Google Colab for model training and GitHub Codespaces for development and testing.
 Features
