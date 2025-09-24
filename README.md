@@ -1,1 +1,1 @@
-# momo
+#credit-scoring-app
